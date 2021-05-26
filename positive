@@ -1,0 +1,8 @@
+#python program to print positive integers
+#list of numbers
+list1 = [11,-44,0,-54,45,77]
+#iterating each number in list
+for num in list1:
+    #checking 
+    if num >= 0:
+       print(num, end =" ")
